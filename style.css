@@ -1,0 +1,15 @@
+.nav tr td ul {
+    list-style: none;
+}
+.nav tr td ul li a{
+    text-decoration: none;
+}
+.d-flex{
+    display: flex;
+}
+.logo{
+    font-size: large;
+}
+.about p{
+ padding: 5px;
+}
